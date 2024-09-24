@@ -20,6 +20,16 @@ This project is an AI-powered plagiarism detection tool that allows users to upl
 - **Detailed Plagiarism Report**: Get a detailed report including the percentage of plagiarized content and highlighted sections.
 - **AI-Powered Detection**: Utilizes OpenAI's API for advanced plagiarism detection.
 
+## Sample Image: 
+
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="https://github.com/user-attachments/assets/22990b08-b14f-4be5-ba7a-92fe89255feb" alt="Screenshot 1" style="width: 40%;"/>
+
+  <img src="https://github.com/user-attachments/assets/7eaa4a40-bac3-4d9c-b274-87ebd013a8a4" alt="Screenshot 2" style="width: 40%;"/>
+
+</div>
+
 ## Tech Stack
 
 - **Next.js** (v14)
